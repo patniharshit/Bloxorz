@@ -8,7 +8,11 @@ to be carved out of a 10 X 10 area The movable block is a cuboid made of 2 cubes
 
 
 ###Gameplay
+
+
 ![Screenshot of Bloxorz](bloxorz.gif "Screenshot")
+
+
 
 * (The quality of the gif had to be reduced to reduce its size)
 
